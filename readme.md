@@ -2,7 +2,7 @@
 
 Investigación - Preguntas y Respuestas
 
-2. ¿Qué diferencia existe entre extends y implements en TypeScript?
+1. ¿Qué diferencia existe entre extends y implements en TypeScript?
 
 La diferencia principal entre extends y implements radica en su propósito dentro de la herencia y la implementación de contratos. Cuando una clase utiliza extends, está heredando de otra clase, lo que significa que obtiene todas las propiedades y métodos de la clase padre, pudiendo extender o modificar su comportamiento. Esto establece una relación "es-un" entre las clases.
 
