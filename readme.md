@@ -143,15 +143,7 @@ obtenerDatosAsync()
   .catch((error: Error) => console.error(error));
 ```
 
----
 
-## Recursos recomendados
-
-- [Documentación oficial de TypeScript](https://www.typescriptlang.org/docs/)
-- [Guía de POO en TypeScript](https://www.typescriptlang.org/docs/handbook/classes.html)
-- [Principios SOLID](https://es.wikipedia.org/wiki/SOLID)
-
----
 
 **Autor:**  
 13024RDO
