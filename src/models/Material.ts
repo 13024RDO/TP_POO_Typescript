@@ -1,6 +1,6 @@
 import { IBibliotecaItem } from "../interfaces/IBibliotecaItem.js";
 
-export abstract class Material implements IBibliotecaItem {
+export abstract class Material implements IbibliotecaItem {
   readonly id: number;
   titulo: string;
   autor: string;
